@@ -1,0 +1,1 @@
+source $HOME/git/drf-course/escola/.virtualenv/meu_virtualenv/bin/activate
